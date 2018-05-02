@@ -1,0 +1,7 @@
+#Wed Nov 01 11:20:20 CET 2017
+base.0=C\:\\Users\\dilek\\AndroidStudioProjects\\PayPlan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4bf35dbab2292a64481a8fb8d6c04f2fe29f51db
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\dilek\\AndroidStudioProjects\\PayPlan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fc1ed79c64069a5edb303801ab9e95bbfdbb4177\\classes.dex
+base.1=C\:\\Users\\dilek\\AndroidStudioProjects\\PayPlan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fc1ed79c64069a5edb303801ab9e95bbfdbb4177
+file.0=C\:\\Users\\dilek\\AndroidStudioProjects\\PayPlan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4bf35dbab2292a64481a8fb8d6c04f2fe29f51db\\classes.dex

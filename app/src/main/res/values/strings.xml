@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PayPlan</string>
+    <string name="time_registrering">Time registrering</string>
+    <string name="jobb_type">Jobbtype</string>
+    <string name="jobb_profil">Jobb profil</string>
+    <string name="timel_nn">Timelønn</string>
+    <string name="lagre">Lagre</string>
+    <string name="legg_til_jobb">legg til jobb</string>
+    <string name="success_lagret">Jobb profilen er lagret</string>
+    <string name="error_lagret">Fyll inn alle feltene</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="not_created_account">No account yet? Create one</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="a_member">Already a member? Login</string>
+    <string name="regTime">Registrer time</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="date">Date</string>
+    <string name="logout">logout</string>
+    <string name="kr">Kr:</string>
+    <string name="earned">Earned so far:</string>
+    <string name="hour">Hours:</string>
+</resources>
+
